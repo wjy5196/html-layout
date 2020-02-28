@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    background-color:silver;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  .TopBox {
+    width: 100%;
+    height: 20vh;
+    background-color:black;
+  }
+  
+  .SideBox {
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+  }
+  
+  .BottomBox{ 
+    background-color:black;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+  }
