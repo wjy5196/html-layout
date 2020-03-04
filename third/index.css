@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Space-place {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .Other-space {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .Gray-space {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .Space-one-div {
+    width: 50px;
+    height: 50px;
+    background-color: cornflowerblue  ;
+  }
+  
+  .White-space  {
+    background-color: white;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .blue-space {
+    background-color:cornflowerblue;
+  }
+  
+  .Green-space {
+    background-color: turquoise;
+  }
+  
+  .Teal-space{
+    background-color: #B8E986;
+  }
+  
+  .Yellow-space{
+    background-color: #F8E71C;
+  }
